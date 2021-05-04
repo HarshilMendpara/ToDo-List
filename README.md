@@ -1,3 +1,3 @@
 # ToDo-List
 
-https://jovial-leakey-d9f0dc.netlify.app
+https://todoapp-leakey-d9f0dc.netlify.app
