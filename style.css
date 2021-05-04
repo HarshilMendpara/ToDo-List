@@ -322,4 +322,13 @@ a:hover span {
     line-height: 28px;
     font-size: 13px;
   }
+  ul li #check:checked:after {
+    content: "\2714";
+    font-size: 14px;
+    position: absolute;
+    top: 0px;
+    left: 4px;
+
+    color: black;
+  }
 }
